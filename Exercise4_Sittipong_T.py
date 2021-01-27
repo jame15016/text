@@ -1,4 +1,4 @@
-Escore = 88.8
+FEscore = 88.8
 GBscore = 66.2
 ICSscore = 77.2
 CPscore = 99.9
